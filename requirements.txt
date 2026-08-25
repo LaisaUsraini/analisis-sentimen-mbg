@@ -1,0 +1,24 @@
+# Dependensi utama penelitian
+# Analisis Sentimen Opini Publik terhadap Program Makan Bergizi Gratis (MBG)
+# di Media Sosial X Menggunakan Naive Bayes Classifier dan Support Vector Machine
+
+# Pengolahan data
+pandas
+numpy
+
+# Tokenisasi
+nltk
+
+# Preprocessing Bahasa Indonesia (stemming & stopword)
+Sastrawi
+
+# Machine learning & evaluasi
+scikit-learn
+
+# Visualisasi
+matplotlib
+seaborn
+wordcloud
+
+# Progress bar
+tqdm
